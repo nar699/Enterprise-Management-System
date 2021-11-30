@@ -1,0 +1,201 @@
+ID_Empleat,titol_treball,dies_vacances,dies_malalties,ID_Sou,ID_Departament,ID_Horari
+3001,Compensation Analyst,27,6,29,7,3
+3002,Cost Accountant,,19,12,7,48
+3003,Budget/Accounting Analyst I,38,19,7,3,5
+3004,Engineer II,,17,28,1,12
+3005,Administrative Assistant I,,17,33,2,43
+3006,Administrative Officer,,6,33,1,2
+3007,Developer II,40,13,43,12,49
+3008,Staff Accountant II,36,28,32,10,48
+3009,Director of Sales,,27,30,3,36
+3010,Physical Therapy Assistant,41,12,38,4,31
+3011,Senior Cost Accountant,31,26,47,11,40
+3012,Operator,,15,12,12,10
+3013,Operator,,5,49,10,31
+3014,Programmer II,,15,35,1,10
+3015,Computer Systems Analyst IV,27,22,20,2,22
+3016,Desktop Support Technician,28,13,25,9,14
+3017,Legal Assistant,36,6,3,5,38
+3018,Financial Analyst,,26,8,2,15
+3019,GIS Technical Architect,,4,23,1,46
+3020,Professor,,9,32,6,25
+3021,Environmental Tech,,12,18,1,31
+3022,Financial Advisor,50,5,48,10,45
+3023,VP Quality Control,21,1,45,4,1
+3024,Accountant II,,1,42,11,15
+3025,Senior Financial Analyst,,3,26,3,29
+3026,Dental Hygienist,,25,38,7,35
+3027,Director of Sales,,19,3,1,45
+3028,Legal Assistant,,4,42,4,26
+3029,Professor,,9,36,6,17
+3030,Software Test Engineer III,48,17,15,1,42
+3031,Statistician II,,15,1,2,2
+3032,Budget/Accounting Analyst II,26,11,13,7,25
+3033,Payment Adjustment Coordinator,,8,30,10,33
+3034,Accountant IV,42,2,7,7,50
+3035,Web Developer IV,43,19,14,11,40
+3036,Junior Executive,,5,42,7,46
+3037,Software Test Engineer IV,50,24,14,12,1
+3038,Geologist III,,9,30,3,9
+3039,Dental Hygienist,20,21,42,1,41
+3040,Research Nurse,,1,48,3,47
+3041,Product Engineer,,14,15,3,42
+3042,Financial Advisor,,11,39,4,39
+3043,Product Engineer,,5,48,12,46
+3044,Senior Financial Analyst,,2,45,6,36
+3045,Executive Secretary,,12,17,2,19
+3046,Software Engineer III,33,3,16,10,32
+3047,Cost Accountant,,26,21,5,43
+3048,Paralegal,26,5,24,11,5
+3049,Programmer Analyst I,,2,22,6,1
+3050,Office Assistant IV,26,19,19,8,49
+3051,Web Developer III,24,6,30,8,42
+3052,Programmer Analyst III,,18,21,4,22
+3053,Structural Engineer,,2,11,9,27
+3054,Business Systems Development Analyst,,5,35,11,3
+3055,Nurse Practicioner,38,16,46,5,1
+3056,Computer Systems Analyst II,,8,17,2,44
+3057,Web Developer IV,26,26,12,11,15
+3058,Recruiter,45,9,5,11,31
+3059,Recruiter,,25,42,2,39
+3060,Product Engineer,,15,20,12,34
+3061,Chief Design Engineer,38,4,3,8,28
+3062,Recruiting Manager,34,1,40,4,25
+3063,Social Worker,44,14,4,4,24
+3064,Senior Cost Accountant,,1,3,3,15
+3065,VP Accounting,,16,13,7,36
+3066,Analog Circuit Design manager,,18,16,3,50
+3067,Help Desk Technician,,27,41,9,33
+3068,Electrical Engineer,37,6,27,11,12
+3069,Pharmacist,48,6,39,1,44
+3070,Dental Hygienist,,5,48,12,32
+3071,Biostatistician IV,,26,33,3,7
+3072,Speech Pathologist,,4,43,10,37
+3073,Media Manager II,,8,48,9,3
+3074,Marketing Assistant,,2,42,5,12
+3075,Software Engineer I,,18,43,1,14
+3076,Information Systems Manager,,25,20,6,27
+3077,Accountant I,,28,19,3,47
+3078,Financial Advisor,,20,15,4,48
+3079,Marketing Assistant,26,24,23,2,13
+3080,Graphic Designer,25,23,38,10,23
+3081,Analyst Programmer,,1,23,7,44
+3082,Systems Administrator IV,45,16,4,1,29
+3083,Chemical Engineer,,2,40,9,32
+3084,Pharmacist,41,12,46,7,11
+3085,Help Desk Operator,,20,11,5,25
+3086,Health Coach II,,23,18,1,5
+3087,Civil Engineer,,11,16,8,12
+3088,Chief Design Engineer,,15,10,5,29
+3089,Senior Editor,,5,32,9,29
+3090,Marketing Manager,25,4,22,1,50
+3091,Database Administrator III,,18,21,1,17
+3092,Senior Financial Analyst,,30,31,5,4
+3093,Administrative Assistant I,,12,43,5,49
+3094,Assistant Professor,43,4,19,1,44
+3095,Developer I,,30,30,10,36
+3096,Database Administrator II,,25,4,4,39
+3097,Dental Hygienist,26,2,13,5,18
+3098,Account Executive,,29,23,6,46
+3099,General Manager,,13,15,4,16
+3100,Office Assistant II,,28,28,3,27
+3101,Paralegal,,12,11,12,39
+3102,Civil Engineer,46,12,19,4,28
+3103,Internal Auditor,,7,47,8,12
+3104,Database Administrator I,,11,38,8,7
+3105,Compensation Analyst,39,10,20,8,20
+3106,Nurse,45,9,35,5,27
+3107,Project Manager,,6,36,11,20
+3108,Data Coordiator,34,24,29,1,49
+3109,Design Engineer,,20,41,2,16
+3110,Web Developer IV,26,3,15,6,30
+3111,Help Desk Operator,47,26,9,4,40
+3112,Software Test Engineer II,24,2,50,8,49
+3113,Analyst Programmer,28,9,24,3,45
+3114,Analog Circuit Design manager,,28,29,4,20
+3115,Web Designer I,,21,44,10,41
+3116,VP Sales,,17,26,10,11
+3117,Paralegal,39,2,5,5,47
+3118,Senior Quality Engineer,,4,25,10,42
+3119,Senior Sales Associate,,11,30,7,24
+3120,Financial Analyst,,24,38,8,37
+3121,Senior Financial Analyst,,29,1,10,42
+3122,Office Assistant I,46,14,41,8,41
+3123,Senior Financial Analyst,,1,12,8,29
+3124,Physical Therapy Assistant,,11,47,9,7
+3125,Computer Systems Analyst III,,29,20,6,33
+3126,Assistant Media Planner,,28,38,2,27
+3127,VP Accounting,37,3,3,5,46
+3128,Dental Hygienist,,12,19,1,20
+3129,Structural Engineer,,23,39,11,17
+3130,Software Consultant,27,21,27,10,48
+3131,Information Systems Manager,,19,47,3,21
+3132,Financial Advisor,,3,31,9,11
+3133,Senior Financial Analyst,,8,39,9,8
+3134,Assistant Media Planner,34,24,41,7,36
+3135,Analyst Programmer,,21,43,5,44
+3136,Senior Quality Engineer,,20,31,9,3
+3137,Desktop Support Technician,,19,32,2,1
+3138,Analyst Programmer,,18,26,4,36
+3139,Recruiting Manager,38,12,39,10,20
+3140,Teacher,,28,31,4,36
+3141,Safety Technician I,,10,27,6,38
+3142,Structural Engineer,,27,8,3,50
+3143,Account Coordinator,,24,23,10,1
+3144,Internal Auditor,,4,11,12,1
+3145,Analog Circuit Design manager,,21,38,6,34
+3146,Computer Systems Analyst I,,2,26,10,13
+3147,Registered Nurse,42,24,17,8,9
+3148,Research Assistant II,,12,37,11,15
+3149,Executive Secretary,,21,3,10,3
+3150,Analog Circuit Design manager,,24,31,5,14
+3151,Staff Accountant III,,12,3,6,50
+3152,Automation Specialist IV,,4,6,8,20
+3153,Statistician I,,8,41,7,2
+3154,Safety Technician I,,21,42,10,42
+3155,Marketing Manager,,18,50,7,12
+3156,Sales Representative,32,1,5,5,44
+3157,Graphic Designer,,26,24,10,26
+3158,Structural Engineer,,6,9,5,45
+3159,Design Engineer,,20,39,10,21
+3160,Analyst Programmer,,19,23,1,40
+3161,Analyst Programmer,,12,33,6,37
+3162,Senior Developer,43,30,39,1,22
+3163,Junior Executive,,2,31,10,50
+3164,Statistician IV,,25,41,2,4
+3165,Graphic Designer,,20,3,6,26
+3166,Staff Scientist,,3,15,8,16
+3167,Legal Assistant,,13,30,6,12
+3168,Senior Editor,32,21,45,8,40
+3169,VP Product Management,50,9,28,4,45
+3170,Account Representative II,44,25,41,8,8
+3171,Media Manager I,,3,45,6,19
+3172,Professor,,30,34,2,40
+3173,Developer II,30,7,30,6,13
+3174,Paralegal,,27,25,11,1
+3175,Product Engineer,,24,22,9,14
+3176,Office Assistant II,,28,41,8,11
+3177,Software Test Engineer I,,11,21,5,43
+3178,Engineer III,,13,42,9,24
+3179,Payment Adjustment Coordinator,,27,20,3,12
+3180,Computer Systems Analyst III,,11,31,2,22
+3181,Web Developer I,,5,12,10,7
+3182,Business Systems Development Analyst,,30,14,3,47
+3183,Structural Engineer,36,29,44,5,27
+3184,Help Desk Technician,,6,34,8,6
+3185,Statistician III,41,14,3,6,34
+3186,Computer Systems Analyst IV,,13,8,9,16
+3187,Account Representative III,,30,43,5,47
+3188,Actuary,,5,16,7,28
+3189,Staff Accountant II,48,14,47,2,26
+3190,Computer Systems Analyst II,30,27,4,5,19
+3191,Systems Administrator II,,23,16,1,30
+3192,Internal Auditor,,30,39,12,23
+3193,Associate Professor,,5,41,6,5
+3194,Web Designer I,,28,5,10,7
+3195,Automation Specialist II,,5,23,6,42
+3196,VP Quality Control,,18,11,10,43
+3197,Payment Adjustment Coordinator,,9,46,3,43
+3198,Research Nurse,,15,39,10,4
+3199,Speech Pathologist,43,16,31,7,9
+3200,Information Systems Manager,50,13,16,4,30

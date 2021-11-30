@@ -1,0 +1,1001 @@
+ID_Empleat,titol_treball,dies_vacances,dies_malalties,ID_Sou,ID_Departament,ID_Horari
+1001,Senior Financial Analyst,28,25,13,7,2
+1002,Media Manager II,38,29,31,12,9
+1003,Internal Auditor,27,18,35,8,5
+1004,Senior Quality Engineer,40,20,33,8,41
+1005,Budget/Accounting Analyst I,21,3,47,9,18
+1006,Internal Auditor,27,22,29,9,10
+1007,Compensation Analyst,39,7,2,3,17
+1008,Nurse Practicioner,35,28,23,5,28
+1009,Help Desk Technician,38,19,8,8,20
+1010,Sales Associate,15,1,31,6,22
+1011,VP Product Management,40,7,16,12,7
+1012,Financial Advisor,14,24,33,2,33
+1013,Statistician III,10,7,4,11,17
+1014,Programmer III,32,10,14,6,47
+1015,Associate Professor,26,25,7,6,48
+1016,Senior Quality Engineer,27,11,7,5,1
+1017,Geologist III,34,19,24,9,42
+1018,Marketing Assistant,40,1,49,4,28
+1019,Statistician II,12,1,22,2,37
+1020,Mechanical Systems Engineer,33,22,18,1,42
+1021,Assistant Professor,22,28,47,5,26
+1022,Assistant Manager,18,3,37,7,11
+1023,Marketing Assistant,18,10,3,9,11
+1024,Payment Adjustment Coordinator,32,23,11,8,7
+1025,Assistant Media Planner,25,10,47,8,5
+1026,Accountant IV,10,9,22,7,48
+1027,Assistant Manager,18,1,20,5,49
+1028,Desktop Support Technician,13,16,45,12,41
+1029,Analog Circuit Design manager,37,2,34,2,35
+1030,Professor,37,22,46,2,11
+1031,Occupational Therapist,12,0,39,5,40
+1032,Web Designer II,39,19,14,3,37
+1033,Compensation Analyst,26,3,9,2,42
+1034,Actuary,13,22,1,6,37
+1035,Social Worker,13,24,37,12,3
+1036,Account Executive,40,14,13,1,40
+1037,Research Nurse,18,10,2,9,10
+1038,VP Quality Control,13,0,16,3,43
+1039,Civil Engineer,17,19,31,6,34
+1040,Operator,20,6,34,1,20
+1041,Safety Technician I,19,19,28,1,28
+1042,Recruiter,37,21,30,10,48
+1043,Operator,25,2,32,7,42
+1044,Paralegal,35,21,46,2,40
+1045,Nuclear Power Engineer,40,12,37,10,43
+1046,Senior Developer,16,0,1,5,16
+1047,Engineer II,34,24,30,12,6
+1048,Quality Engineer,35,29,8,8,23
+1049,Quality Control Specialist,35,7,39,3,14
+1050,Librarian,17,5,37,9,37
+1051,Sales Representative,13,22,8,2,40
+1052,Health Coach II,39,26,36,2,46
+1053,Staff Accountant II,21,20,47,7,3
+1054,Account Executive,20,25,32,3,46
+1055,Administrative Officer,11,30,21,3,31
+1056,Account Executive,10,18,47,5,4
+1057,Programmer IV,20,13,5,1,6
+1058,Chief Design Engineer,36,25,50,3,8
+1059,Tax Accountant,14,10,38,3,4
+1060,Financial Advisor,33,26,1,7,6
+1061,Media Manager III,15,26,21,9,49
+1062,Occupational Therapist,30,19,48,3,15
+1063,Senior Financial Analyst,21,22,19,3,9
+1064,Structural Engineer,30,3,47,5,22
+1065,Recruiter,39,28,27,7,24
+1066,Accounting Assistant II,16,29,34,6,44
+1067,Environmental Specialist,25,14,36,11,48
+1068,Speech Pathologist,29,11,35,9,20
+1069,Web Designer II,27,8,42,1,49
+1070,Technical Writer,26,13,18,11,35
+1071,Recruiting Manager,29,19,10,2,21
+1072,Web Designer III,29,4,50,10,25
+1073,Staff Scientist,28,6,29,11,35
+1074,Safety Technician IV,39,14,30,9,4
+1075,Developer III,13,28,13,5,43
+1076,Administrative Officer,37,10,38,3,48
+1077,Chemical Engineer,29,23,42,9,38
+1078,Food Chemist,20,4,25,10,49
+1079,Account Representative I,11,3,1,4,9
+1080,General Manager,29,8,47,5,17
+1081,Chief Design Engineer,16,14,3,6,35
+1082,Clinical Specialist,38,1,30,9,32
+1083,Community Outreach Specialist,40,7,2,12,42
+1084,Registered Nurse,30,5,19,10,18
+1085,Associate Professor,35,9,6,8,15
+1086,Technical Writer,22,16,10,4,9
+1087,Financial Analyst,27,6,25,2,25
+1088,Dental Hygienist,17,14,6,10,32
+1089,Financial Advisor,37,4,20,9,39
+1090,Administrative Officer,34,11,30,9,11
+1091,Senior Developer,17,8,48,11,40
+1092,Actuary,34,7,17,1,32
+1093,Project Manager,30,10,47,9,22
+1094,Tax Accountant,29,13,9,8,35
+1095,Engineer II,37,27,34,1,11
+1096,Internal Auditor,38,19,3,10,29
+1097,Marketing Manager,35,12,11,7,23
+1098,Payment Adjustment Coordinator,13,15,7,6,17
+1099,Editor,35,29,25,6,43
+1100,Senior Sales Associate,13,25,33,5,32
+1101,Sales Associate,36,13,24,8,8
+1102,Software Consultant,28,16,19,6,49
+1103,Administrative Assistant IV,17,13,50,8,14
+1104,Cost Accountant,33,9,23,9,41
+1105,Food Chemist,34,12,50,2,17
+1106,VP Product Management,22,25,45,3,16
+1107,Structural Analysis Engineer,27,0,48,12,29
+1108,Analog Circuit Design manager,36,17,33,12,25
+1109,Legal Assistant,15,22,6,11,30
+1110,Senior Financial Analyst,22,22,44,2,28
+1111,Internal Auditor,33,10,14,5,19
+1112,Research Assistant II,35,21,45,6,29
+1113,Chemical Engineer,38,25,46,8,37
+1114,Cost Accountant,38,3,36,11,33
+1115,Budget/Accounting Analyst I,14,8,21,4,5
+1116,Safety Technician IV,29,14,5,9,14
+1117,Actuary,27,6,44,11,28
+1118,Assistant Manager,22,20,15,3,20
+1119,Web Developer II,26,5,32,3,29
+1120,Compensation Analyst,27,28,33,11,42
+1121,Marketing Manager,14,27,12,11,30
+1122,Engineer I,29,22,7,1,37
+1123,Quality Engineer,14,12,23,9,33
+1124,Recruiting Manager,15,29,32,2,14
+1125,Electrical Engineer,12,15,26,10,20
+1126,Clinical Specialist,40,14,10,1,22
+1127,Editor,40,29,37,6,4
+1128,Social Worker,12,12,26,3,50
+1129,Environmental Specialist,31,6,29,8,45
+1130,Administrative Officer,11,9,9,11,26
+1131,Human Resources Manager,31,25,26,4,35
+1132,Account Executive,18,29,44,2,21
+1133,Associate Professor,15,8,40,10,25
+1134,Software Engineer I,36,21,18,6,25
+1135,Environmental Tech,39,6,21,3,31
+1136,Quality Engineer,31,5,48,6,23
+1137,Analog Circuit Design manager,21,20,41,6,17
+1138,Environmental Specialist,33,24,34,7,37
+1139,Developer I,24,19,1,12,7
+1140,Account Representative I,29,25,48,12,17
+1141,Research Nurse,36,16,1,10,21
+1142,Paralegal,38,1,1,6,17
+1143,Graphic Designer,36,20,41,6,9
+1144,VP Product Management,35,18,18,10,10
+1145,Desktop Support Technician,13,18,15,7,28
+1146,Clinical Specialist,29,6,13,4,36
+1147,VP Sales,34,20,12,12,8
+1148,Structural Engineer,17,17,3,12,16
+1149,Technical Writer,28,15,41,1,47
+1150,Business Systems Development Analyst,24,24,32,12,34
+1151,Cost Accountant,14,6,11,3,45
+1152,Quality Engineer,34,30,45,5,50
+1153,Food Chemist,25,2,20,5,48
+1154,Software Test Engineer I,36,2,3,12,3
+1155,Assistant Media Planner,30,0,38,5,23
+1156,Director of Sales,39,25,29,1,14
+1157,Developer I,18,10,36,10,32
+1158,Account Representative III,33,6,4,2,43
+1159,Internal Auditor,12,27,33,5,13
+1160,Assistant Professor,35,20,7,3,41
+1161,Account Representative III,36,2,26,4,15
+1162,Speech Pathologist,17,25,48,12,23
+1163,Analog Circuit Design manager,20,23,13,6,36
+1164,Junior Executive,25,18,33,4,29
+1165,Research Nurse,11,18,24,5,47
+1166,Budget/Accounting Analyst I,14,11,33,4,42
+1167,Automation Specialist IV,34,10,12,6,37
+1168,Nurse,19,9,31,5,30
+1169,Sales Representative,13,12,31,12,14
+1170,Staff Accountant I,10,28,40,12,12
+1171,VP Quality Control,10,29,50,8,34
+1172,Research Assistant IV,28,4,19,4,22
+1173,VP Product Management,24,1,22,3,49
+1174,Assistant Manager,25,15,22,7,1
+1175,Librarian,24,3,20,6,21
+1176,Programmer III,33,3,1,7,1
+1177,Programmer I,13,0,20,4,4
+1178,Research Assistant I,18,26,29,11,12
+1179,Nurse,10,3,33,12,23
+1180,Account Executive,20,16,34,3,2
+1181,Registered Nurse,34,26,9,5,44
+1182,Recruiting Manager,36,25,11,8,29
+1183,Database Administrator II,31,6,29,10,5
+1184,Product Engineer,36,2,29,11,35
+1185,Accountant II,30,19,44,12,33
+1186,Community Outreach Specialist,32,16,29,8,26
+1187,Structural Engineer,40,10,19,9,50
+1188,Assistant Professor,13,9,33,9,27
+1189,VP Marketing,28,23,29,6,42
+1190,Programmer I,33,28,50,3,41
+1191,Food Chemist,16,26,29,2,48
+1192,Financial Advisor,34,17,40,1,24
+1193,Registered Nurse,11,22,31,12,48
+1194,Web Developer II,28,9,38,6,16
+1195,Editor,38,3,39,6,5
+1196,Marketing Manager,39,30,8,9,23
+1197,Web Designer II,16,29,5,7,50
+1198,Desktop Support Technician,35,18,26,9,31
+1199,Associate Professor,31,19,8,3,42
+1200,Staff Scientist,10,4,8,11,2
+1201,Environmental Specialist,23,12,13,10,33
+1202,Executive Secretary,20,20,50,4,45
+1203,Director of Sales,27,3,49,12,17
+1204,Computer Systems Analyst IV,18,9,30,1,31
+1205,Software Test Engineer IV,37,21,18,11,27
+1206,Compensation Analyst,17,15,25,8,14
+1207,Community Outreach Specialist,37,29,1,2,50
+1208,Nurse Practicioner,19,30,13,4,46
+1209,Safety Technician IV,23,26,7,1,24
+1210,VP Accounting,10,16,29,4,18
+1211,Web Designer I,13,18,2,6,50
+1212,Social Worker,21,26,44,3,6
+1213,Payment Adjustment Coordinator,29,7,47,1,43
+1214,Senior Editor,36,11,23,12,39
+1215,Geologist III,12,3,1,7,29
+1216,Office Assistant IV,35,7,12,2,36
+1217,Structural Analysis Engineer,37,2,36,5,34
+1218,Software Engineer IV,29,8,32,4,8
+1219,Environmental Tech,29,14,5,1,7
+1220,Chief Design Engineer,36,5,12,11,3
+1221,Safety Technician II,16,4,6,11,8
+1222,Statistician I,20,22,23,6,22
+1223,Marketing Assistant,31,26,4,11,3
+1224,Actuary,14,15,23,9,8
+1225,Mechanical Systems Engineer,19,25,19,10,12
+1226,Account Executive,30,16,44,10,2
+1227,Software Engineer II,21,28,28,2,47
+1228,Research Assistant I,29,29,12,12,26
+1229,Quality Control Specialist,26,11,16,6,44
+1230,Developer III,21,5,40,11,46
+1231,Business Systems Development Analyst,19,2,29,2,25
+1232,Tax Accountant,29,29,2,6,37
+1233,Software Test Engineer I,16,21,5,8,40
+1234,Sales Associate,12,8,34,8,24
+1235,Research Assistant II,40,24,37,3,39
+1236,Assistant Media Planner,24,15,29,12,44
+1237,Recruiting Manager,34,12,14,10,45
+1238,Office Assistant IV,17,26,4,6,2
+1239,Staff Accountant III,37,27,44,4,46
+1240,Health Coach I,19,13,23,9,13
+1241,Editor,13,9,5,1,16
+1242,Marketing Assistant,14,22,30,11,1
+1243,Social Worker,10,21,23,1,3
+1244,Payment Adjustment Coordinator,19,28,14,10,47
+1245,Associate Professor,27,10,43,6,40
+1246,Community Outreach Specialist,25,18,8,2,23
+1247,General Manager,21,0,19,6,41
+1248,Research Associate,33,26,12,8,43
+1249,Project Manager,31,23,34,4,23
+1250,Database Administrator IV,27,30,15,6,26
+1251,Human Resources Assistant IV,19,3,7,5,50
+1252,Dental Hygienist,16,18,18,2,25
+1253,Office Assistant IV,20,21,8,7,34
+1254,Senior Quality Engineer,17,16,10,5,18
+1255,Automation Specialist II,16,3,26,6,42
+1256,Human Resources Manager,28,25,9,2,7
+1257,General Manager,29,17,29,7,40
+1258,Food Chemist,26,10,15,1,9
+1259,Payment Adjustment Coordinator,30,0,8,6,14
+1260,Programmer Analyst II,11,21,24,5,12
+1261,Design Engineer,25,3,49,9,5
+1262,Mechanical Systems Engineer,12,6,10,2,28
+1263,Physical Therapy Assistant,37,8,30,4,42
+1264,Analog Circuit Design manager,20,16,28,1,31
+1265,Help Desk Operator,18,4,48,3,33
+1266,Accountant I,19,3,9,1,14
+1267,Help Desk Technician,11,28,32,6,20
+1268,Geologist III,36,29,25,8,46
+1269,Software Consultant,39,16,43,10,20
+1270,Sales Associate,29,11,50,6,41
+1271,Sales Associate,32,17,18,6,32
+1272,Account Representative II,11,25,40,6,41
+1273,Junior Executive,35,29,15,4,17
+1274,Legal Assistant,31,0,1,10,15
+1275,Professor,30,6,23,10,14
+1276,VP Accounting,37,7,7,7,44
+1277,Administrative Assistant II,22,11,10,1,12
+1278,Software Test Engineer II,18,26,40,11,44
+1279,Financial Advisor,40,10,10,8,49
+1280,Computer Systems Analyst II,37,19,39,9,15
+1281,Teacher,15,0,14,2,21
+1282,Community Outreach Specialist,37,26,14,1,28
+1283,Programmer Analyst II,36,1,23,11,31
+1284,Help Desk Operator,16,6,30,1,40
+1285,Desktop Support Technician,36,13,10,6,3
+1286,Sales Representative,35,15,10,3,17
+1287,Media Manager II,25,22,31,12,21
+1288,Engineer III,31,9,11,7,25
+1289,Geological Engineer,13,12,11,4,35
+1290,Graphic Designer,34,24,28,6,2
+1291,General Manager,33,29,42,2,30
+1292,Senior Quality Engineer,26,10,13,7,17
+1293,Account Executive,33,22,24,11,16
+1294,Office Assistant I,32,23,21,5,5
+1295,Administrative Assistant III,34,15,40,4,30
+1296,Geological Engineer,20,9,21,11,22
+1297,Environmental Tech,21,30,30,5,47
+1298,Assistant Manager,26,21,10,8,18
+1299,Junior Executive,14,8,27,7,21
+1300,Human Resources Manager,20,17,27,1,46
+1301,Account Coordinator,14,10,24,11,6
+1302,VP Product Management,37,14,6,1,3
+1303,Accounting Assistant IV,27,2,10,6,18
+1304,Data Coordiator,16,24,7,2,42
+1305,Quality Control Specialist,28,23,26,6,23
+1306,Engineer IV,38,30,35,4,10
+1307,Human Resources Manager,38,3,40,9,42
+1308,Recruiter,33,25,28,4,33
+1309,Senior Editor,17,12,36,9,4
+1310,Technical Writer,38,20,32,5,50
+1311,Programmer Analyst I,20,16,42,8,29
+1312,Senior Cost Accountant,31,7,18,11,27
+1313,Structural Engineer,39,14,4,12,27
+1314,Health Coach IV,19,19,32,9,13
+1315,Human Resources Manager,35,5,31,12,48
+1316,VP Product Management,21,28,19,7,16
+1317,Sales Representative,29,16,36,9,5
+1318,Design Engineer,19,14,14,7,24
+1319,Structural Engineer,19,12,7,2,28
+1320,Desktop Support Technician,38,16,27,4,11
+1321,Chemical Engineer,34,28,20,9,18
+1322,Teacher,12,26,8,12,14
+1323,Structural Analysis Engineer,38,28,12,2,19
+1324,Developer I,33,0,48,4,26
+1325,Information Systems Manager,38,12,25,4,30
+1326,Tax Accountant,13,28,32,5,43
+1327,Senior Editor,30,30,46,4,20
+1328,Software Engineer I,28,24,34,9,28
+1329,Graphic Designer,16,21,47,9,37
+1330,Librarian,19,9,43,11,7
+1331,Accounting Assistant II,40,10,2,2,41
+1332,Senior Quality Engineer,22,7,19,5,45
+1333,Professor,31,3,21,6,20
+1334,Account Representative III,32,13,14,2,3
+1335,Operator,18,14,7,3,17
+1336,Staff Scientist,11,7,30,12,37
+1337,Financial Advisor,32,29,34,1,50
+1338,Administrative Assistant II,39,3,28,6,7
+1339,Financial Analyst,27,2,39,4,29
+1340,Programmer II,18,9,5,7,14
+1341,Senior Sales Associate,19,20,4,4,23
+1342,Accountant I,24,16,22,1,39
+1343,Developer II,25,21,21,7,24
+1344,Marketing Manager,30,18,29,9,47
+1345,Account Executive,12,20,26,5,2
+1346,Quality Control Specialist,32,16,41,11,46
+1347,Paralegal,29,20,2,9,4
+1348,Recruiter,29,7,27,2,11
+1349,Marketing Manager,29,17,47,1,33
+1350,Financial Analyst,31,27,43,4,3
+1351,Software Consultant,21,29,35,6,35
+1352,Sales Representative,38,20,2,8,2
+1353,Senior Developer,26,19,39,2,40
+1354,Administrative Officer,23,27,28,1,35
+1355,General Manager,11,2,39,5,19
+1356,Web Developer III,40,5,3,8,1
+1357,Safety Technician II,14,10,17,6,13
+1358,Junior Executive,30,14,6,9,28
+1359,Senior Developer,20,24,35,3,10
+1360,VP Sales,31,0,30,11,13
+1361,Administrative Officer,21,19,36,12,48
+1362,Professor,19,21,41,8,48
+1363,Assistant Manager,28,27,15,9,41
+1364,Assistant Professor,34,20,31,4,15
+1365,Data Coordiator,18,23,32,1,21
+1366,Chief Design Engineer,38,1,30,9,34
+1367,Assistant Professor,10,10,19,12,7
+1368,Automation Specialist IV,19,3,47,2,48
+1369,Nuclear Power Engineer,31,3,30,5,39
+1370,VP Quality Control,33,29,39,11,4
+1371,Chemical Engineer,14,17,1,4,34
+1372,Human Resources Assistant I,36,14,19,9,14
+1373,Help Desk Technician,13,26,33,4,4
+1374,Registered Nurse,38,20,21,2,27
+1375,Research Associate,11,19,48,3,21
+1376,Geological Engineer,33,21,40,4,38
+1377,Civil Engineer,27,5,16,3,36
+1378,Programmer I,31,24,2,11,23
+1379,Administrative Assistant IV,24,3,49,9,36
+1380,Business Systems Development Analyst,21,3,1,11,8
+1381,Associate Professor,28,4,43,10,7
+1382,Human Resources Manager,20,11,21,4,50
+1383,VP Quality Control,29,9,5,4,26
+1384,Junior Executive,15,18,38,3,32
+1385,Account Representative III,38,26,36,12,1
+1386,Social Worker,29,1,27,8,31
+1387,Product Engineer,36,5,15,7,28
+1388,Mechanical Systems Engineer,15,26,48,11,43
+1389,Analog Circuit Design manager,29,2,14,4,15
+1390,VP Marketing,38,25,35,4,31
+1391,VP Marketing,24,5,9,8,47
+1392,Electrical Engineer,16,6,2,3,4
+1393,Analog Circuit Design manager,20,25,50,11,42
+1394,Environmental Tech,14,30,36,11,34
+1395,VP Sales,12,30,31,1,26
+1396,Analyst Programmer,34,30,38,12,38
+1397,Speech Pathologist,16,11,39,10,42
+1398,Software Consultant,12,5,19,2,12
+1399,VP Sales,13,0,36,7,12
+1400,Safety Technician I,29,16,25,12,28
+1401,Safety Technician IV,24,4,23,4,1
+1402,Web Designer II,28,9,6,9,32
+1403,Internal Auditor,24,6,25,5,22
+1404,Analog Circuit Design manager,40,10,24,11,5
+1405,VP Sales,25,10,31,4,38
+1406,Senior Editor,27,8,35,6,29
+1407,Senior Developer,25,21,12,4,28
+1408,Research Nurse,31,19,12,2,2
+1409,Analog Circuit Design manager,39,4,47,7,45
+1410,Marketing Manager,15,27,50,5,30
+1411,Physical Therapy Assistant,30,2,10,12,12
+1412,Social Worker,26,11,24,5,50
+1413,Systems Administrator II,14,19,33,2,8
+1414,GIS Technical Architect,24,29,27,4,41
+1415,Administrative Assistant III,25,0,14,4,43
+1416,Marketing Assistant,28,21,4,4,4
+1417,VP Sales,28,13,42,8,6
+1418,Human Resources Assistant III,35,11,39,2,32
+1419,Health Coach IV,16,20,6,3,19
+1420,Pharmacist,17,20,40,9,7
+1421,Automation Specialist III,18,10,16,2,20
+1422,Occupational Therapist,25,29,34,6,12
+1423,Programmer IV,40,9,10,2,48
+1424,Civil Engineer,34,3,26,11,3
+1425,Research Assistant I,26,22,41,1,15
+1426,Senior Sales Associate,15,16,40,1,22
+1427,Geological Engineer,15,14,11,12,34
+1428,Safety Technician I,30,10,20,6,44
+1429,Design Engineer,24,20,1,6,7
+1430,Data Coordiator,16,16,9,1,34
+1431,Nurse,26,17,7,8,34
+1432,VP Accounting,27,7,2,11,19
+1433,Senior Financial Analyst,14,5,19,7,16
+1434,Accounting Assistant IV,20,4,32,1,42
+1435,Web Designer III,29,21,37,4,24
+1436,Associate Professor,11,26,16,7,8
+1437,Desktop Support Technician,32,19,24,9,3
+1438,Software Engineer III,21,28,1,12,16
+1439,Speech Pathologist,10,25,19,6,23
+1440,Nuclear Power Engineer,19,22,42,11,19
+1441,Associate Professor,29,0,11,8,37
+1442,Geologist I,18,18,31,8,1
+1443,Software Test Engineer II,24,8,10,10,23
+1444,Operator,30,29,29,8,42
+1445,Marketing Manager,36,18,24,5,50
+1446,Help Desk Technician,15,30,9,3,45
+1447,Biostatistician IV,26,19,29,6,45
+1448,Business Systems Development Analyst,39,13,41,10,28
+1449,Software Test Engineer III,10,10,20,12,49
+1450,Research Assistant IV,10,10,2,10,34
+1451,Programmer I,24,22,37,3,26
+1452,Compensation Analyst,19,26,24,7,19
+1453,Compensation Analyst,33,14,49,10,39
+1454,Human Resources Manager,11,6,34,12,21
+1455,Research Nurse,21,20,42,8,31
+1456,Junior Executive,25,11,33,9,11
+1457,Payment Adjustment Coordinator,18,17,12,5,25
+1458,Quality Engineer,28,15,50,9,47
+1459,Information Systems Manager,28,9,49,8,1
+1460,Operator,13,21,7,12,42
+1461,Project Manager,27,27,36,1,29
+1462,Staff Accountant I,17,9,24,12,46
+1463,Statistician II,27,13,34,2,25
+1464,VP Quality Control,17,1,10,5,13
+1465,Geologist III,38,2,46,12,15
+1466,Mechanical Systems Engineer,28,19,42,4,44
+1467,Analog Circuit Design manager,13,1,23,7,18
+1468,Web Designer IV,11,24,1,8,41
+1469,Food Chemist,28,23,20,11,6
+1470,Safety Technician III,27,27,20,6,35
+1471,Data Coordiator,40,22,1,3,31
+1472,Legal Assistant,24,28,1,4,37
+1473,Occupational Therapist,31,4,22,3,24
+1474,Junior Executive,24,14,17,12,25
+1475,Pharmacist,16,2,20,6,13
+1476,Associate Professor,13,11,21,9,18
+1477,Mechanical Systems Engineer,27,18,22,1,23
+1478,Structural Analysis Engineer,31,10,50,7,39
+1479,Statistician III,31,13,37,7,43
+1480,Chemical Engineer,35,4,43,6,40
+1481,Health Coach I,28,10,37,5,9
+1482,Quality Engineer,30,0,19,8,34
+1483,Account Representative IV,30,20,35,1,41
+1484,Office Assistant II,34,10,9,10,44
+1485,Media Manager I,11,7,4,3,1
+1486,Electrical Engineer,27,14,10,3,28
+1487,Senior Developer,37,14,10,11,39
+1488,Human Resources Assistant III,13,23,17,12,30
+1489,Mechanical Systems Engineer,35,14,23,10,6
+1490,Physical Therapy Assistant,20,3,8,11,21
+1491,Statistician I,23,2,30,8,39
+1492,Pharmacist,23,30,26,6,15
+1493,Information Systems Manager,28,25,39,11,46
+1494,Financial Advisor,10,11,12,8,50
+1495,Executive Secretary,37,14,9,11,38
+1496,Programmer Analyst III,15,1,2,10,30
+1497,Help Desk Operator,23,10,42,3,7
+1498,Environmental Tech,31,28,12,8,1
+1499,Account Representative III,23,29,11,3,16
+1500,Cost Accountant,33,16,2,11,44
+1501,Editor,20,15,10,4,5
+1502,Staff Scientist,24,17,28,5,22
+1503,Developer II,24,2,37,6,19
+1504,Product Engineer,10,6,30,4,14
+1505,Health Coach IV,18,16,12,11,14
+1506,Nurse Practicioner,15,18,49,1,32
+1507,Senior Editor,19,28,21,4,2
+1508,Help Desk Technician,35,2,30,6,42
+1509,Account Coordinator,29,5,22,8,32
+1510,Senior Developer,17,18,37,4,39
+1511,Registered Nurse,32,20,13,6,1
+1512,Compensation Analyst,24,15,21,10,4
+1513,Nurse Practicioner,24,12,37,3,21
+1514,Nurse Practicioner,31,16,1,10,12
+1515,Occupational Therapist,20,14,33,2,19
+1516,Social Worker,30,13,12,2,10
+1517,Environmental Tech,24,10,6,1,32
+1518,Health Coach I,11,21,12,1,19
+1519,Research Assistant IV,40,13,48,8,40
+1520,Human Resources Manager,20,10,11,9,26
+1521,Software Engineer IV,14,4,19,7,15
+1522,Legal Assistant,36,25,26,2,27
+1523,Assistant Media Planner,37,19,19,7,19
+1524,Director of Sales,34,20,35,10,49
+1525,Compensation Analyst,31,13,15,3,3
+1526,Payment Adjustment Coordinator,39,28,50,5,32
+1527,Biostatistician I,17,12,4,12,50
+1528,Budget/Accounting Analyst III,12,5,34,11,11
+1529,Social Worker,17,15,33,9,33
+1530,Desktop Support Technician,19,16,18,3,19
+1531,Clinical Specialist,20,30,31,7,2
+1532,Mechanical Systems Engineer,31,12,37,2,10
+1533,Software Engineer IV,20,13,27,1,27
+1534,Environmental Specialist,20,24,9,8,2
+1535,Programmer Analyst II,39,10,32,2,3
+1536,Administrative Officer,37,14,32,7,15
+1537,Account Representative III,36,23,7,7,24
+1538,Internal Auditor,19,22,30,12,21
+1539,Dental Hygienist,38,9,22,12,35
+1540,Staff Accountant II,15,20,21,12,12
+1541,Developer III,26,4,30,9,17
+1542,Chemical Engineer,19,3,40,7,6
+1543,Budget/Accounting Analyst III,12,8,41,12,12
+1544,Help Desk Technician,30,15,37,7,46
+1545,Administrative Officer,11,13,27,11,1
+1546,Business Systems Development Analyst,14,7,35,10,39
+1547,Programmer IV,25,22,14,3,6
+1548,Human Resources Assistant III,18,5,13,12,38
+1549,Systems Administrator III,40,6,15,7,44
+1550,Internal Auditor,38,2,43,12,47
+1551,Data Coordiator,23,20,15,4,46
+1552,Chief Design Engineer,29,4,31,5,27
+1553,Computer Systems Analyst I,27,21,11,7,41
+1554,Biostatistician I,20,11,40,6,5
+1555,Chief Design Engineer,15,14,29,2,5
+1556,Quality Control Specialist,18,12,24,9,29
+1557,Senior Editor,20,14,19,3,19
+1558,Sales Associate,26,20,48,10,30
+1559,Software Consultant,26,25,4,5,42
+1560,Account Coordinator,38,16,2,10,14
+1561,Programmer IV,25,9,7,1,39
+1562,Office Assistant IV,10,10,18,11,42
+1563,Recruiter,14,13,10,10,43
+1564,Systems Administrator III,39,17,22,12,18
+1565,Speech Pathologist,15,3,34,3,14
+1566,Sales Representative,23,13,19,7,49
+1567,Recruiting Manager,40,14,16,11,42
+1568,Computer Systems Analyst III,39,28,30,8,14
+1569,Editor,16,24,29,5,21
+1570,Senior Financial Analyst,12,10,43,4,38
+1571,Associate Professor,19,19,29,1,32
+1572,Community Outreach Specialist,16,21,21,12,40
+1573,Tax Accountant,37,0,46,3,38
+1574,Engineer I,22,14,47,10,24
+1575,Nurse Practicioner,35,22,45,3,48
+1576,Payment Adjustment Coordinator,28,20,34,7,25
+1577,Software Engineer IV,18,17,30,8,23
+1578,Assistant Media Planner,31,16,40,9,44
+1579,Geologist II,18,23,14,4,25
+1580,General Manager,20,17,31,10,7
+1581,Social Worker,28,17,2,12,31
+1582,Data Coordiator,31,15,33,11,40
+1583,Business Systems Development Analyst,19,0,45,5,20
+1584,Tax Accountant,39,12,10,5,44
+1585,Senior Developer,26,7,34,2,9
+1586,Mechanical Systems Engineer,17,8,45,11,11
+1587,Professor,32,18,23,3,28
+1588,Dental Hygienist,33,23,17,6,17
+1589,Senior Developer,36,11,2,3,10
+1590,Staff Accountant II,15,23,13,10,14
+1591,Paralegal,20,4,20,12,31
+1592,Engineer I,37,10,44,11,27
+1593,Engineer II,22,0,12,11,34
+1594,Actuary,17,7,46,11,44
+1595,Sales Representative,28,20,38,3,38
+1596,Associate Professor,22,28,34,5,46
+1597,Human Resources Assistant I,17,7,49,1,12
+1598,Product Engineer,17,13,50,1,19
+1599,Recruiter,16,26,32,8,19
+1600,Design Engineer,28,30,39,9,36
+1601,Staff Accountant IV,16,3,25,7,38
+1602,Operator,33,21,17,4,28
+1603,Community Outreach Specialist,24,30,46,9,30
+1604,VP Quality Control,31,27,1,7,47
+1605,Software Consultant,18,19,33,10,33
+1606,VP Accounting,21,12,44,10,4
+1607,Information Systems Manager,24,6,14,9,35
+1608,Research Associate,37,15,20,6,44
+1609,Assistant Manager,13,23,33,10,40
+1610,Office Assistant I,29,30,46,5,30
+1611,Payment Adjustment Coordinator,29,5,32,8,40
+1612,Programmer IV,31,1,7,10,32
+1613,Legal Assistant,26,2,40,6,30
+1614,Programmer IV,18,5,48,2,8
+1615,Teacher,16,9,21,10,15
+1616,Media Manager I,34,27,34,2,50
+1617,Automation Specialist II,13,11,22,5,20
+1618,Sales Representative,18,1,37,2,15
+1619,Registered Nurse,12,7,20,3,5
+1620,Financial Analyst,10,13,12,12,34
+1621,Business Systems Development Analyst,21,9,39,4,31
+1622,Human Resources Manager,19,21,23,3,37
+1623,Junior Executive,26,24,21,6,46
+1624,Pharmacist,20,19,41,12,47
+1625,Software Engineer IV,13,2,23,7,17
+1626,Systems Administrator III,35,11,29,9,23
+1627,Occupational Therapist,25,1,16,2,6
+1628,Chief Design Engineer,37,29,24,9,19
+1629,Technical Writer,36,19,42,8,24
+1630,Clinical Specialist,39,2,3,7,11
+1631,Senior Sales Associate,35,12,45,7,16
+1632,Technical Writer,35,24,31,11,1
+1633,Senior Editor,13,21,28,11,47
+1634,Quality Control Specialist,35,7,42,9,50
+1635,Geologist I,31,22,42,4,28
+1636,Recruiter,18,0,5,1,47
+1637,VP Marketing,39,6,31,12,24
+1638,Graphic Designer,36,9,20,10,13
+1639,Operator,38,14,40,2,45
+1640,Quality Engineer,13,8,8,3,22
+1641,Assistant Manager,11,10,30,2,25
+1642,Web Designer III,13,0,31,12,27
+1643,Administrative Assistant I,35,13,34,3,36
+1644,Teacher,16,16,31,9,25
+1645,General Manager,23,15,22,10,10
+1646,Paralegal,27,11,23,6,21
+1647,Recruiter,14,30,35,10,4
+1648,Administrative Officer,13,0,4,10,26
+1649,Human Resources Manager,27,30,12,4,10
+1650,Biostatistician I,12,16,12,5,15
+1651,Administrative Assistant II,17,8,3,5,19
+1652,Account Coordinator,14,10,22,5,41
+1653,Clinical Specialist,28,23,44,8,44
+1654,Human Resources Assistant IV,35,8,37,5,36
+1655,Research Nurse,13,16,31,8,18
+1656,Professor,27,14,2,7,1
+1657,Social Worker,28,12,32,3,32
+1658,Registered Nurse,31,15,17,8,29
+1659,General Manager,38,1,18,8,21
+1660,Environmental Specialist,21,20,13,12,29
+1661,Speech Pathologist,33,17,9,10,14
+1662,Teacher,18,23,13,4,31
+1663,Nuclear Power Engineer,11,2,9,10,31
+1664,Administrative Officer,21,28,50,12,38
+1665,Research Assistant I,30,21,23,6,45
+1666,Mechanical Systems Engineer,38,6,19,3,34
+1667,VP Product Management,38,16,43,6,1
+1668,Structural Engineer,16,10,43,8,19
+1669,Biostatistician III,33,12,14,11,12
+1670,Geologist II,28,14,16,7,1
+1671,Help Desk Operator,20,20,31,4,4
+1672,Data Coordiator,33,29,36,6,4
+1673,Chemical Engineer,38,3,1,10,34
+1674,Budget/Accounting Analyst III,24,1,43,11,15
+1675,Human Resources Assistant I,21,5,10,2,31
+1676,Graphic Designer,18,12,5,4,6
+1677,Structural Analysis Engineer,39,14,28,11,45
+1678,Compensation Analyst,17,29,47,9,12
+1679,Budget/Accounting Analyst III,23,2,23,3,15
+1680,Environmental Specialist,11,9,19,7,6
+1681,Payment Adjustment Coordinator,38,29,35,2,13
+1682,Speech Pathologist,26,5,17,7,12
+1683,Chemical Engineer,11,0,22,7,26
+1684,Teacher,26,29,6,8,12
+1685,Quality Control Specialist,26,7,8,12,49
+1686,Junior Executive,34,9,32,11,17
+1687,Senior Quality Engineer,26,22,48,9,35
+1688,Human Resources Assistant III,31,20,47,7,46
+1689,Technical Writer,40,11,4,9,46
+1690,Occupational Therapist,24,23,14,10,48
+1691,Marketing Manager,18,6,47,2,10
+1692,Nurse Practicioner,11,12,6,4,17
+1693,Staff Scientist,38,7,10,4,32
+1694,Teacher,37,22,33,12,49
+1695,VP Marketing,34,3,2,2,26
+1696,Research Assistant IV,37,15,35,10,31
+1697,Environmental Tech,40,23,25,1,17
+1698,Financial Analyst,13,9,23,11,35
+1699,Account Representative I,37,16,41,5,34
+1700,Geological Engineer,30,28,43,7,22
+1701,Legal Assistant,21,0,13,6,25
+1702,Physical Therapy Assistant,17,20,5,10,31
+1703,Assistant Media Planner,19,26,37,12,31
+1704,Teacher,24,13,45,9,46
+1705,Software Test Engineer IV,20,21,40,2,17
+1706,VP Sales,13,4,15,11,9
+1707,VP Product Management,37,27,10,6,35
+1708,Automation Specialist III,25,12,26,1,14
+1709,Community Outreach Specialist,28,0,17,12,14
+1710,Financial Advisor,36,19,19,4,39
+1711,Pharmacist,36,5,36,7,9
+1712,Environmental Specialist,16,29,38,7,25
+1713,Social Worker,12,17,31,3,40
+1714,Health Coach IV,22,18,48,5,15
+1715,Nurse,28,14,49,10,6
+1716,Human Resources Manager,40,16,21,4,23
+1717,Programmer III,35,9,32,4,32
+1718,Recruiting Manager,17,10,34,1,22
+1719,Civil Engineer,35,25,6,3,42
+1720,Sales Representative,14,3,18,8,27
+1721,Engineer III,36,9,39,11,1
+1722,Sales Representative,35,7,42,5,39
+1723,VP Quality Control,31,16,19,7,37
+1724,Health Coach II,26,22,27,4,31
+1725,Payment Adjustment Coordinator,36,12,19,10,14
+1726,Engineer IV,12,0,50,4,44
+1727,Paralegal,21,3,17,4,11
+1728,Geologist II,17,22,7,9,6
+1729,Business Systems Development Analyst,10,28,5,3,10
+1730,Senior Sales Associate,10,24,23,12,4
+1731,Senior Quality Engineer,13,2,50,1,21
+1732,Geologist I,34,4,6,4,27
+1733,Accountant II,31,28,18,6,21
+1734,Administrative Assistant II,40,6,32,4,43
+1735,Pharmacist,33,2,24,12,34
+1736,VP Accounting,18,9,24,3,9
+1737,Chief Design Engineer,22,8,32,5,6
+1738,VP Quality Control,36,19,21,8,32
+1739,Business Systems Development Analyst,13,0,49,10,8
+1740,Civil Engineer,20,25,12,7,13
+1741,Recruiting Manager,25,20,10,2,19
+1742,Speech Pathologist,17,13,5,12,34
+1743,Senior Cost Accountant,23,18,18,1,21
+1744,Pharmacist,12,8,20,8,6
+1745,Geological Engineer,33,8,28,6,32
+1746,Structural Engineer,35,2,33,12,32
+1747,Environmental Specialist,24,3,43,11,20
+1748,Physical Therapy Assistant,26,6,14,6,17
+1749,Help Desk Technician,31,17,31,11,5
+1750,Recruiting Manager,34,29,6,10,27
+1751,Project Manager,24,28,37,6,14
+1752,Dental Hygienist,38,26,14,12,16
+1753,Director of Sales,27,0,50,8,32
+1754,Professor,13,26,5,6,5
+1755,Community Outreach Specialist,23,3,43,2,15
+1756,Teacher,29,16,26,10,38
+1757,VP Marketing,31,1,1,9,26
+1758,Internal Auditor,34,26,43,9,1
+1759,Marketing Assistant,38,26,29,3,49
+1760,Marketing Manager,33,1,31,1,29
+1761,Director of Sales,11,3,18,5,11
+1762,Analyst Programmer,17,15,1,3,14
+1763,Research Nurse,35,23,23,11,49
+1764,Software Consultant,36,5,20,11,25
+1765,Senior Editor,19,16,16,7,38
+1766,Mechanical Systems Engineer,22,28,39,11,30
+1767,Senior Financial Analyst,40,20,49,8,19
+1768,Help Desk Technician,13,4,8,4,35
+1769,Desktop Support Technician,39,9,22,10,16
+1770,Marketing Assistant,12,7,47,5,47
+1771,Compensation Analyst,11,8,16,8,38
+1772,Staff Scientist,20,21,2,7,44
+1773,Systems Administrator II,23,27,34,11,15
+1774,Tax Accountant,28,16,7,10,15
+1775,Human Resources Assistant I,37,5,34,5,35
+1776,Paralegal,13,1,20,7,45
+1777,Compensation Analyst,13,21,47,1,3
+1778,Budget/Accounting Analyst II,31,16,11,4,18
+1779,Data Coordiator,18,26,18,8,38
+1780,Executive Secretary,30,17,5,7,12
+1781,Director of Sales,25,11,43,8,7
+1782,Tax Accountant,32,17,18,7,48
+1783,Business Systems Development Analyst,14,19,27,9,33
+1784,Financial Advisor,34,21,45,9,28
+1785,Editor,20,2,28,12,37
+1786,Research Assistant I,12,10,34,7,23
+1787,Senior Editor,29,3,20,1,21
+1788,Quality Engineer,23,18,18,2,20
+1789,Research Associate,25,13,44,1,6
+1790,Programmer Analyst II,37,7,22,12,43
+1791,Assistant Manager,40,2,7,12,48
+1792,Analyst Programmer,30,7,14,11,7
+1793,Research Nurse,39,18,33,12,36
+1794,Account Representative II,12,24,26,7,3
+1795,Compensation Analyst,39,30,27,10,13
+1796,Geologist IV,40,13,27,4,46
+1797,General Manager,17,6,10,4,27
+1798,Registered Nurse,38,21,9,12,9
+1799,Statistician II,37,25,49,7,14
+1800,Financial Advisor,27,12,31,4,48
+1801,Research Assistant IV,17,9,14,6,5
+1802,Design Engineer,26,23,23,1,40
+1803,Editor,21,2,27,6,25
+1804,Help Desk Operator,40,0,49,7,4
+1805,Nurse,35,2,10,12,47
+1806,Pharmacist,32,8,28,7,20
+1807,Marketing Manager,37,22,36,6,30
+1808,Engineer II,25,27,19,5,2
+1809,Staff Accountant I,37,19,32,11,44
+1810,Software Consultant,39,16,9,12,22
+1811,Recruiting Manager,29,11,32,9,46
+1812,Design Engineer,23,27,32,4,18
+1813,Human Resources Assistant III,23,4,19,11,9
+1814,Cost Accountant,13,4,21,1,49
+1815,Associate Professor,34,24,38,9,20
+1816,Help Desk Technician,16,0,49,11,19
+1817,Accountant I,31,18,41,6,30
+1818,Senior Developer,23,25,2,10,31
+1819,Senior Sales Associate,34,21,30,9,50
+1820,Structural Engineer,21,16,23,2,46
+1821,Quality Engineer,18,25,49,9,42
+1822,Programmer II,18,16,13,12,16
+1823,Physical Therapy Assistant,33,1,7,12,23
+1824,GIS Technical Architect,17,1,14,7,10
+1825,Accounting Assistant I,17,24,36,7,38
+1826,Dental Hygienist,15,1,24,9,19
+1827,Systems Administrator I,33,28,27,4,28
+1828,Recruiter,21,24,20,9,43
+1829,Analyst Programmer,22,6,47,11,28
+1830,Chief Design Engineer,23,9,18,8,42
+1831,Tax Accountant,34,1,44,4,19
+1832,Senior Developer,19,25,31,2,50
+1833,Office Assistant IV,38,20,14,2,23
+1834,Occupational Therapist,18,16,49,11,22
+1835,Automation Specialist IV,14,22,14,12,44
+1836,Media Manager IV,26,7,50,2,6
+1837,Human Resources Manager,32,16,9,11,14
+1838,Biostatistician I,17,11,42,9,32
+1839,Account Executive,17,18,34,8,6
+1840,Software Engineer I,19,0,18,5,8
+1841,Assistant Manager,12,24,6,12,23
+1842,Structural Analysis Engineer,25,16,3,5,42
+1843,Technical Writer,13,9,13,3,21
+1844,Editor,12,9,41,7,50
+1845,Biostatistician II,24,1,22,6,11
+1846,Design Engineer,38,12,6,4,45
+1847,Web Developer III,21,4,18,7,4
+1848,Chemical Engineer,34,21,23,2,7
+1849,Librarian,37,9,36,10,37
+1850,Account Executive,36,22,10,8,1
+1851,Desktop Support Technician,39,19,44,1,7
+1852,Web Designer IV,22,13,12,11,21
+1853,Software Consultant,24,25,9,7,32
+1854,Software Consultant,16,21,50,6,16
+1855,Health Coach III,20,19,48,12,40
+1856,Developer III,17,9,17,10,34
+1857,Senior Developer,37,23,34,2,50
+1858,Civil Engineer,37,13,45,7,46
+1859,VP Marketing,19,23,37,6,6
+1860,Food Chemist,28,30,37,12,35
+1861,Office Assistant III,14,18,23,9,37
+1862,Geologist IV,30,15,43,9,15
+1863,Staff Accountant II,21,6,25,3,36
+1864,Systems Administrator III,11,16,41,7,25
+1865,Registered Nurse,13,27,1,5,10
+1866,Human Resources Assistant I,35,2,16,5,18
+1867,Web Designer III,13,16,41,8,40
+1868,Dental Hygienist,29,11,2,12,47
+1869,Sales Associate,23,27,1,3,50
+1870,Developer I,32,23,34,3,2
+1871,Financial Advisor,13,26,7,5,9
+1872,Statistician I,20,25,38,11,25
+1873,Nuclear Power Engineer,22,28,8,1,5
+1874,Safety Technician I,20,5,1,11,3
+1875,Senior Quality Engineer,24,19,39,5,30
+1876,Media Manager III,14,1,8,3,3
+1877,Speech Pathologist,22,13,18,3,4
+1878,Electrical Engineer,20,4,17,1,5
+1879,Assistant Manager,31,5,47,9,35
+1880,Developer I,37,30,46,12,10
+1881,Operator,28,1,29,6,1
+1882,Nurse,33,8,29,11,6
+1883,Automation Specialist IV,15,12,48,3,21
+1884,Civil Engineer,37,8,38,6,47
+1885,Project Manager,17,27,27,8,35
+1886,Registered Nurse,14,25,8,1,20
+1887,Senior Editor,31,17,41,1,38
+1888,Editor,28,10,35,2,19
+1889,Assistant Manager,18,28,13,5,20
+1890,Developer II,29,1,45,3,42
+1891,Speech Pathologist,37,18,21,2,36
+1892,Office Assistant III,24,27,20,6,31
+1893,Electrical Engineer,30,12,22,8,34
+1894,Clinical Specialist,10,22,40,9,20
+1895,Social Worker,28,20,46,6,50
+1896,VP Quality Control,19,30,22,7,40
+1897,Cost Accountant,27,14,16,9,43
+1898,Structural Analysis Engineer,21,12,41,4,23
+1899,Research Associate,25,26,44,7,2
+1900,Programmer Analyst III,20,25,49,1,27
+1901,Recruiting Manager,31,8,46,11,41
+1902,Accountant IV,17,14,3,7,43
+1903,Research Nurse,29,4,22,5,25
+1904,Database Administrator I,35,3,24,2,21
+1905,Marketing Assistant,23,26,15,9,24
+1906,Accountant I,27,29,25,7,15
+1907,Account Executive,24,28,15,11,9
+1908,Nuclear Power Engineer,40,4,12,8,33
+1909,Biostatistician IV,21,15,41,6,47
+1910,Quality Control Specialist,28,16,2,12,32
+1911,Staff Scientist,34,15,49,1,29
+1912,Help Desk Technician,33,7,37,6,26
+1913,Actuary,21,1,23,1,32
+1914,Senior Cost Accountant,14,2,50,5,24
+1915,Payment Adjustment Coordinator,32,1,5,8,32
+1916,Administrative Officer,12,24,18,5,38
+1917,Chief Design Engineer,32,29,1,4,8
+1918,Desktop Support Technician,35,18,15,2,19
+1919,Human Resources Manager,14,23,24,11,2
+1920,Operator,20,22,14,11,19
+1921,Junior Executive,15,9,48,4,35
+1922,Human Resources Assistant III,35,1,2,8,29
+1923,Social Worker,23,15,31,9,48
+1924,Research Nurse,38,20,44,10,11
+1925,Web Designer IV,40,28,45,1,32
+1926,Physical Therapy Assistant,29,22,4,2,47
+1927,Administrative Assistant I,21,12,45,10,30
+1928,Nuclear Power Engineer,29,15,22,12,1
+1929,Assistant Manager,12,5,32,1,37
+1930,Administrative Assistant IV,32,6,12,9,39
+1931,Technical Writer,13,17,29,8,40
+1932,Professor,39,26,29,5,16
+1933,Sales Representative,18,23,3,1,11
+1934,Assistant Media Planner,23,30,20,2,37
+1935,Senior Cost Accountant,20,28,45,9,7
+1936,Director of Sales,14,23,21,10,24
+1937,Community Outreach Specialist,34,27,33,2,35
+1938,Account Representative I,39,3,45,8,39
+1939,Physical Therapy Assistant,18,18,22,5,11
+1940,Assistant Manager,25,9,44,8,5
+1941,Biostatistician I,23,28,45,4,29
+1942,Software Consultant,37,15,19,12,38
+1943,Recruiting Manager,21,2,15,11,5
+1944,Financial Advisor,34,9,33,7,44
+1945,Desktop Support Technician,38,23,49,1,12
+1946,Administrative Assistant I,28,22,29,8,13
+1947,Programmer II,22,27,19,11,8
+1948,Assistant Professor,32,13,4,4,3
+1949,Accountant IV,10,0,25,4,25
+1950,VP Quality Control,29,6,27,10,8
+1951,Developer III,23,17,25,12,43
+1952,Chemical Engineer,16,30,14,11,12
+1953,Financial Analyst,39,14,9,1,4
+1954,VP Product Management,26,27,46,7,39
+1955,Accounting Assistant II,31,28,8,1,30
+1956,Analog Circuit Design manager,40,14,4,9,15
+1957,Paralegal,38,17,6,8,32
+1958,Web Developer IV,31,4,31,4,43
+1959,Staff Accountant III,31,9,18,6,6
+1960,Desktop Support Technician,39,16,34,2,16
+1961,Budget/Accounting Analyst I,23,5,42,5,36
+1962,Graphic Designer,40,6,18,9,45
+1963,Help Desk Technician,39,9,32,6,46
+1964,Legal Assistant,17,23,21,3,4
+1965,Biostatistician II,30,4,30,1,28
+1966,Senior Sales Associate,21,21,25,12,14
+1967,Editor,23,23,40,8,27
+1968,Assistant Manager,11,23,11,5,3
+1969,Budget/Accounting Analyst III,26,18,50,5,21
+1970,Business Systems Development Analyst,39,10,37,11,12
+1971,Food Chemist,30,25,6,3,34
+1972,Environmental Tech,40,27,15,4,14
+1973,Cost Accountant,12,26,21,1,37
+1974,Engineer IV,21,7,2,1,41
+1975,Statistician I,19,17,38,11,34
+1976,Project Manager,39,18,1,5,39
+1977,Environmental Tech,11,26,35,8,8
+1978,Developer II,21,13,45,1,44
+1979,Assistant Media Planner,37,19,22,8,12
+1980,Budget/Accounting Analyst II,10,10,13,6,13
+1981,Office Assistant I,32,21,37,1,22
+1982,Information Systems Manager,11,14,36,11,14
+1983,Internal Auditor,28,17,2,10,2
+1984,Research Associate,15,18,23,1,14
+1985,Environmental Tech,10,0,27,4,48
+1986,Research Nurse,29,17,27,9,17
+1987,Teacher,13,12,46,3,15
+1988,Software Consultant,19,18,13,2,21
+1989,Web Designer I,13,15,24,11,41
+1990,Environmental Tech,18,14,35,2,16
+1991,Chemical Engineer,40,25,13,5,12
+1992,Structural Analysis Engineer,31,30,10,6,45
+1993,Teacher,19,19,7,6,32
+1994,Geologist II,15,24,26,4,26
+1995,Senior Financial Analyst,16,25,37,8,5
+1996,Financial Advisor,25,18,7,6,34
+1997,Web Developer I,31,16,37,7,26
+1998,VP Accounting,32,5,9,1,45
+1999,VP Marketing,34,6,41,4,40
+2000,Chemical Engineer,22,11,1,11,26
